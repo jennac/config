@@ -1,0 +1,9 @@
+export ANDROID_HOME=/Users/jcolazzi/android/android-sdk-macosx/tools
+export PATH=$PATH:$ANDROID_HOME/tools
+
+alias c='clear'
+alias tree='tree -C'
+
+export CLICOLOR=1
+export LSCOLORS=GxExcxdxCxegedabagacad
+
